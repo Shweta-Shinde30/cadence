@@ -1,0 +1,87 @@
+.container-fluid{
+    text-decoration-color: black;
+
+}
+.navbar{
+    background:#ecc19c;
+}
+.navbar-toggler{
+    display: none;
+    border: none!important;
+}
+.nav-link{
+    color: #fff!important;
+    font-weight: 600;
+    font-size: 16px;
+    text-align: left;
+}
+.navbar ul li a:hover{
+    color: black!important;
+}
+.row{
+    text-align: center;
+    position: center;
+}
+.container{
+    padding-top: 0%;
+    text-align: left;
+}
+.navbar-toggler{
+    border: none!important;
+    color: #000;
+    display: block;
+}
+.nav-link{
+    color:black!important;
+    font-weight: normal;
+    font-size: 20px;
+    font-family: Akaya Telivigala;
+}
+p{
+    padding-left: 10%;
+    font-family: Helvetica;
+    font-size: 110%;
+}
+.carousel-inner{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.container1{
+    padding: 1px;
+    background-color: #000000;
+}
+/*---------------------footer-----------------------*/
+.footer{
+	position:fixed;
+	width:100%;
+	background-color:#0f0f0f;
+	color:black;
+	text-align:left;
+	left:0;
+	bottom:0;
+    padding: 10px;
+}
+.footer p{
+    font-family: Helvetica;
+    font-size: 15px;
+    color: grey;
+}
+.footer i{
+    font-size: 40px;
+    color:grey ;
+    width: 100%;
+}
+/*----------------------------seh-------------------*/
+.containerseh{
+    background:#ecc19c;
+    padding-top: 30px;
+    padding-bottom: 80px;
+    padding-left: 40px;
+    padding-right: 20px;
+}
+.containerseh h3{
+    color: #000;
+    font-family: Helvetica;
+    font-size: 150%;
+}
